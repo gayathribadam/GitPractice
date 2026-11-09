@@ -1,0 +1,3 @@
+*.pptx
+!abc.pptx
+
